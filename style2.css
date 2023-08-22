@@ -38,6 +38,8 @@ header {
 } 
 
 header > h1 {
+    max-width: 1000px;
+    min-width: 450px;
     font-size: 35px;
     font-family: var(--fontdes);
 }
